@@ -47,170 +47,175 @@
 | clickjacking     |                                                              |                                                              |
 | embedded         | adj.fixed into the surface of something                      | 嵌入（或插入、埋入）...之中的                                |
 | inter-app        |                                                              |                                                              |
-| URI              |                                                              |                                                              |
+| URI              | Uniform Resource Identifier                                  | 统一资源标识符                                               |
 | private-use      |                                                              |                                                              |
-| claimed          |                                                              |                                                              |
-| broweser-based   |                                                              |                                                              |
-| IANA             |                                                              |                                                              |
-| normative        |                                                              |                                                              |
-| informative      |                                                              |                                                              |
-| appendix         |                                                              |                                                              |
-| augmented        |                                                              |                                                              |
-| backus-naur      |                                                              |                                                              |
-| appendix         |                                                              |                                                              |
-| appendix         |                                                              |                                                              |
+| claimed          | verb.to say that something is true or is a fact, although you cannot prove it and other people might not believe it | 宣称；主张；断言                                             |
+| browser-based    |                                                              | 基于浏览器的；以浏览器为基础的                               |
+| IANA             | Internet Assigned Numbers Authority                          | 因特网分配号码管理局                                         |
+| normative        | adj.relating to rules，or making people obey rules， especially rules of behaviour : of.relating to, or determinging norms or standards |                                                              |
+| informative      | adj.imparting knowledge:provding a lot of useful information | 提供信息的；增长见闻的                                       |
+| appendix         | noun.supplementary material usually attached at the end of a piece of writing |                                                              |
+| augmented        | adj.made greater,larger,or more complete                     |                                                              |
+| augment          | verb.to increase the size or value of something by adding something to it |                                                              |
+| backus-naur      |                                                              | 形式                                                         |
+|                  |                                                              |                                                              |
+|                  |                                                              |                                                              |
 
 
 ### Indroduction
 
-| Vocabularies    | Explanation in English | Chinese                                                     |
-| --------------- | ---------------------- | ----------------------------------------------------------- |
-| obtain          |                        |                                                             |
-| behalf          |                        |                                                             |
-| orchestrating   |                        |                                                             |
-| approval        |                        |                                                             |
-| interaction     |                        |                                                             |
-| specification   |                        |                                                             |
-| obsolete        |                        |                                                             |
-| memo            |                        |                                                             |
-| distribute      |                        |                                                             |
-| draft           |                        |                                                             |
-| inappropriate   |                        |                                                             |
-| material        |                        |                                                             |
-| cite            |                        |                                                             |
-| extracted       |                        |                                                             |
-| warranty        |                        |                                                             |
-| traditional     |                        |                                                             |
-| authentication  |                        |                                                             |
-| restricted      | adj.                   | （大小或数量）有限的；（指能做的事）有限的；受（法规)制约的 |
-| credentials     | n.                     | 资格证书；证件；资历；证明书；凭证；凭据                    |
-| several         |                        |                                                             |
-| limitations     |                        |                                                             |
-| weakness        |                        |                                                             |
-| inherent        |                        |                                                             |
-| vulnerability   | n.                     | 脆弱性；弱点                                                |
-| exposure        | n.                     | 暴露；显露；揭露；面临                                      |
-| implications    |                        |                                                             |
-| overly          |                        |                                                             |
-| broad           |                        |                                                             |
-| restrict        |                        |                                                             |
-| duration        |                        |                                                             |
-| subset          |                        |                                                             |
-| revoke          |                        |                                                             |
-| individual      |                        |                                                             |
-| compromise      |                        |                                                             |
-| issue           |                        |                                                             |
-| layer           |                        |                                                             |
-| represent       |                        |                                                             |
-| specific        |                        |                                                             |
-| instead         |                        |                                                             |
-| delegation      |                        |                                                             |
-| track           |                        |                                                             |
-| consolidate     |                        |                                                             |
-| insecure        |                        |                                                             |
-| capable         |                        |                                                             |
-| referred        |                        |                                                             |
-| abbreviated     |                        |                                                             |
-| via             |                        |                                                             |
-| term            |                        |                                                             |
-| imply           |                        |                                                             |
-| particular      |                        |                                                             |
-| characteristics |                        |                                                             |
-| interaction     |                        |                                                             |
-| illustrated     |                        |                                                             |
-| figure          |                        |                                                             |
-| preferably      |                        |                                                             |
-| intermediary    |                        |                                                             |
-| express         |                        |                                                             |
-| present         |                        |                                                             |
-| deplicted       |                        |                                                             |
-| as well as      |                        |                                                             |
-| mechanism       |                        |                                                             |
-| temporary       |                        |                                                             |
-| instead of      |                        |                                                             |
-| exchange        |                        |                                                             |
-| consent         |                        |                                                             |
-| otherwise       |                        |                                                             |
-| inform          |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
-|                 |                        |                                                             |
+| Vocabularies                      | Explanation in English                                       | Chinese                                                     |
+| --------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| obtain                            | verb.to get something, especially by asking for it, buying it, working for it, or producing it from something else |                                                             |
+| behalf                            | noun. representing; for the good of or because of            |                                                             |
+| on behalf of sb / in behalf of sb | eg:On behalf of the entire company, I would like to thank you for all your work. |                                                             |
+| on sb's behalf / in sb's behalf   | eg: Please don't leave on my behalf.                         |                                                             |
+| orchestrate                    | verb.to arrange or write a piece of music so that it can be played by an orchestra: to arrange something carefully, and something carefuly:to arrange or combine so as to achieve a desired or maximum effect |                                                             |
+| choreographed                        | adj.(of an event or course of action) planned very carefully :(of a dance or exercise class) with the combination of movements planned in an exact way |                                                             |
+| choreograph                | verb.to compose the choreography of : to arrange or direct the movements,progress,or details of :to plan an event or course of action very carefully:to plan the combination of movements to be performed in a dance |                                                             |
+| approval                          | noun.the feeling of having a positive opinion of someone or something: an act or instance of approving something |                                                             |
+| interaction                       | noun.an occasion when two or more people or things communicate with or react to each other |                                                             |
+| specification                     | noun.a detailed description of how something should be done,made,etc. |                                                             |
+| obsolete                          | adj.not in use any more,haing benn replaced by something newer and better or more fashionable |                                                             |
+| memo                              | noun.a message or other information in writing sent by one person or department to another in the same business organization |                                                             |
+| distribute                        |                                                              |                                                             |
+| draft                             |                                                              |                                                             |
+| inappropriate                     |                                                              |                                                             |
+| material                          |                                                              |                                                             |
+| cite                              |                                                              |                                                             |
+| extracted                         |                                                              |                                                             |
+| warranty                          |                                                              |                                                             |
+| traditional                       |                                                              |                                                             |
+| authentication                    |                                                              |                                                             |
+| restricted                        | adj.                                                         | （大小或数量）有限的；（指能做的事）有限的；受（法规)制约的 |
+| credentials                       | n.                                                           | 资格证书；证件；资历；证明书；凭证；凭据                    |
+| several                           |                                                              |                                                             |
+| limitations                       |                                                              |                                                             |
+| weakness                          |                                                              |                                                             |
+| inherent                          |                                                              |                                                             |
+| vulnerability                     | n.                                                           | 脆弱性；弱点                                                |
+| exposure                          | n.                                                           | 暴露；显露；揭露；面临                                      |
+| implications                      |                                                              |                                                             |
+| overly                            |                                                              |                                                             |
+| broad                             |                                                              |                                                             |
+| restrict                          |                                                              |                                                             |
+| duration                          |                                                              |                                                             |
+| subset                            |                                                              |                                                             |
+| revoke                            |                                                              |                                                             |
+| individual                        |                                                              |                                                             |
+| compromise                        |                                                              |                                                             |
+| issue                             |                                                              |                                                             |
+| layer                             |                                                              |                                                             |
+| represent                         |                                                              |                                                             |
+| specific                          |                                                              |                                                             |
+| instead                           |                                                              |                                                             |
+| delegation                        |                                                              |                                                             |
+| track                             |                                                              |                                                             |
+| consolidate                       |                                                              |                                                             |
+| insecure                          |                                                              |                                                             |
+| capable                           |                                                              |                                                             |
+| referred                          |                                                              |                                                             |
+| abbreviated                       |                                                              |                                                             |
+| via                               |                                                              |                                                             |
+| term                              |                                                              |                                                             |
+| imply                             |                                                              |                                                             |
+| particular                        |                                                              |                                                             |
+| characteristics                   |                                                              |                                                             |
+| interaction                       |                                                              |                                                             |
+| illustrated                       |                                                              |                                                             |
+| figure                            |                                                              |                                                             |
+| preferably                        |                                                              |                                                             |
+| intermediary                      |                                                              |                                                             |
+| express                           |                                                              |                                                             |
+| present                           |                                                              |                                                             |
+| deplicted                         |                                                              |                                                             |
+| as well as                        |                                                              |                                                             |
+| mechanism                         |                                                              |                                                             |
+| temporary                         |                                                              |                                                             |
+| instead of                        |                                                              |                                                             |
+| exchange                          |                                                              |                                                             |
+| consent                           |                                                              |                                                             |
+| otherwise                         |                                                              |                                                             |
+| inform                            |                                                              |                                                             |
+| store                             | verb.to place or leave in a location (such as a warehouse,library,or computer memory) for preservation or later use  or disposal |                                                             |
+| required                          | adj.stipulated as necessary to be done, made, or provided    |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
+|                                   |                                                              |                                                             |
 
 
 ### Word Group
 
-| Word Groups       | Explanation in English | Chinese |
-| ----------------- | ---------------------- | ------- |
-| Internet-Drafts   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-| client-server     |                        |         |
-| in order to       |                        |         |
-| typically         |                        |         |
-| access-restricted |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
-|                   |                        |         |
+| Word Groups              | Explanation in English                                       | Chinese  |
+| ------------------------ | ------------------------------------------------------------ | -------- |
+| Internet-Drafts          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+| client-server            |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+| in order to do something | with the aim or purpose of doing something                   |          |
+| aim                      | noun.a result that your plans or actions are intended to achieve |          |
+| purpose                  | noun.why you do something or why something exists            |          |
+| access-restricted        |                                                              | 受限访问 |
+| typically                |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
+|                          |                                                              |          |
 
