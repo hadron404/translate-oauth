@@ -138,25 +138,147 @@
 | otherwise                         |                                                              |                                                             |
 | inform                            |                                                              |                                                             |
 | store                             | verb.to place or leave in a location (such as a warehouse,library,or computer memory) for preservation or later use  or disposal |                                                             |
-| required                          | adj.stipulated as necessary to be done, made, or provided    |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
-|                                   |                                                              |                                                             |
+| required                          | adj.stipulated as necessary to be done, made, or provided    |
+| transmission                          |     |
+| potentially                          |     |
+
+
+
+### 1.3.2 Refresh Token
+
+|            |      |      |
+| ---------- | ---- | ---- |
+| identical  |      |      |
+| narrower   |      |      |
+| discretion |      |      |
+| criteria   |      |      |
+| opaque     |      |      |
+| retrieve   |      |      |
+| intended   |      |      |
+| presenting |      |      |
+|            |      |      |
+
+### 1.3.3 Client Credentials
+
+|               |      |      |
+| ------------- | ---- | ---- |
+| previously    |      |      |
+| client_secret |      |      |
+| JWT           |      |      |
+| sign          |      |      |
+|               |      |      |
+|               |      |      |
+|               |      |      |
+|               |      |      |
+|               |      |      |
+
+1.4 Access Token
+
+|                    |      |      |
+| ------------------ | ---- | ---- |
+| opaque             |      |      |
+| considered         |      |      |
+| even if            |      |      |
+| structure          |      |      |
+| parseable          |      |      |
+| enforced           |      |      |
+| retrieve           |      |      |
+| self-contain       |      |      |
+| verifiable         |      |      |
+| manner             |      |      |
+| consisting         |      |      |
+| mechanism          |      |      |
+| Introspection      |      |      |
+| payload            |      |      |
+| typically          |      |      |
+| referred           |      |      |
+| sender-constrained |      |      |
+| Mutual TLS         |      |      |
+| abstraction        |      |      |
+| layer              |      |      |
+| constructs         |      |      |
+| range              |      |      |
+| utilization        |      |      |
+| cryptographic      |      |      |
+| ensure             |      |      |
+| guessed            |      |      |
+| produce            |      |      |
+
+1.5 Communication security
+
+|                 |      |      |
+| --------------- | ---- | ---- |
+| Implementations |      |      |
+| mechanism       |      |      |
+| integrity       |      |      |
+| confidentiality |      |      |
+| transport-layer |      |      |
+| either          |      |      |
+| eavesdropping   |      |      |
+| tampering       |      |      |
+| forgery         |      |      |
+| scheme          |      |      |
+| requirements    |      |      |
+| identification  |      |      |
+| algorithms      |      |      |
+| recommendations |      |      |
+| relevant        |      |      |
+| certificate     |      |      |
+| considerations     |      |      |
+
+1.6 HTTP Redirections
+
+|             |      |      |
+| ----------- | ---- | ---- |
+| extensive   |      |      |
+| accomplish  |      |      |
+| destination |      |      |
+|             |      |      |
+
+
+
+1.7 Interoperability
+
+|                  |      |      |
+| ---------------- | ---- | ---- |
+| interoperability |      |      |
+| well-defined     |      |      |
+| partially        |      |      |
+| fully            |      |      |
+| capabilities     |      |      |
+| discovery        |      |      |
+| interact         |      |      |
+| programmatically         |      |      |
+| introspection         |      |      |
+| publication         |      |      |
+1.8 Compatibility with OAuth 2.0
+
+|              |      |      |
+| ------------ | ---- | ---- |
+| specified    |      |      |
+| additionally |      |      |
+| implicit     |      |      |
+| furthermore  |      |      |
+| compatible   |      |      |
+
+
+
+1.9 Notational Conventions
+
+|                        |      |      |
+| ---------------------- | ---- | ---- |
+| notational             |      |      |
+| conventions            |      |      |
+| interpreted            |      |      |
+| capitals               |      |      |
+| certain                |      |      |
+| security-realted       |      |      |
+| unless otherwise noted |      |      |
+| sensitive              |      |      |
+|                        |      |      |
+
+2 Client Registration
+
 
 
 ### Word Group
@@ -164,58 +286,10 @@
 | Word Groups              | Explanation in English                                       | Chinese  |
 | ------------------------ | ------------------------------------------------------------ | -------- |
 | Internet-Drafts          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
 | client-server            |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
 | in order to do something | with the aim or purpose of doing something                   |          |
 | aim                      | noun.a result that your plans or actions are intended to achieve |          |
 | purpose                  | noun.why you do something or why something exists            |          |
 | access-restricted        |                                                              | 受限访问 |
 | typically                |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
-|                          |                                                              |          |
 
