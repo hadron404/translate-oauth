@@ -58,7 +58,7 @@
 | augmented        | adj.made greater,larger,or more complete                     |                                                              |
 | augment          | verb.to increase the size or value of something by adding something to it |                                                              |
 | backus-naur      |                                                              | 形式                                                         |
-|                  |                                                              |                                                              |
+| particular       | adj.special,or this and not any other                        |                                                              |
 |                  |                                                              |                                                              |
 
 
@@ -78,33 +78,34 @@
 | specification                     | noun.a detailed description of how something should be done,made,etc. |                                                             |
 | obsolete                          | adj.not in use any more,haing benn replaced by something newer and better or more fashionable |                                                             |
 | memo                              | noun.a message or other information in writing sent by one person or department to another in the same business organization |                                                             |
-| distribute                        |                                                              |                                                             |
-| draft                             |                                                              |                                                             |
-| inappropriate                     |                                                              |                                                             |
-| material                          |                                                              |                                                             |
-| cite                              |                                                              |                                                             |
-| extracted                         |                                                              |                                                             |
-| warranty                          |                                                              |                                                             |
-| traditional                       |                                                              |                                                             |
-| authentication                    |                                                              |                                                             |
-| restricted                        | adj.                                                         | （大小或数量）有限的；（指能做的事）有限的；受（法规)制约的 |
-| credentials                       | n.                                                           | 资格证书；证件；资历；证明书；凭证；凭据                    |
-| several                           |                                                              |                                                             |
-| limitations                       |                                                              |                                                             |
-| weakness                          |                                                              |                                                             |
-| inherent                          |                                                              |                                                             |
-| vulnerability                     | n.                                                           | 脆弱性；弱点                                                |
-| exposure                          | n.                                                           | 暴露；显露；揭露；面临                                      |
-| implications                      |                                                              |                                                             |
-| overly                            |                                                              |                                                             |
-| broad                             |                                                              |                                                             |
-| restrict                          |                                                              |                                                             |
-| duration                          |                                                              |                                                             |
-| subset                            |                                                              |                                                             |
-| revoke                            |                                                              |                                                             |
-| individual                        |                                                              |                                                             |
-| compromise                        |                                                              |                                                             |
-| issue                             |                                                              |                                                             |
+| distribute                        | verb.to give something out to serveral people,or to spread or supply something |                                                             |
+| draft                             | noun.a piece of text,a formal suggestion, or a drawing in its original state, ofthen containing the main ideas and intentions but not the developed form | 草案；草图；草稿； |
+| inappropriate                     | adj.unsuitable:not appropriate |                                                             |
+| material                          | noun. a physical sustance that things can be made from adj.relating to phsical objects or money rather than emotions or the spirtual world | adj.物质的，实体的 noun.材料；原料 |
+| cite                              | verb.to mention something as proof for a theory or as a reason why something has happened;to speak or write words taken from a particular writer or written work |                                                             |
+| extracted                         | verb.to remove or take out something;to make someone givve you something when they do not want to ;noun. a substance taken from a plant,flower,etc.and used especially in food or medicine |                                                             |
+| warranty                          | noun.a written promise from a company to repair or replace a product that develops a fault within a particular of time,or to do a piece of work again if it is not statisfactory |                                                             |
+| traditional                       | adj.following or belonging to the customs or ways of behaving that have continued in a group of people or society for a long time without changing:handed down from age to age |                                                             |
+| restricted                        | adj.limited,especially by official rules,laws,etc.         |  |
+| credentials                       | noun. :the abilities and experience that make someone suiable for a particular job or activity, or proof of someone's abilities and experience : a piece of information that is sent from one computer to another to check that a user is who they claim to be or to allow someone to see infomation | 资格证书；证件；资历；证明书；凭证；凭据                    |
+| several                           | pronoun. some; an amount that is not exact but is fewer than many |                                                             |
+| limitations                       | noun.the act of controlling and especially redcing something |                                                             |
+| weakness                          | noun.the fact or state of not being strong or powerful : a particular part or quality of someone or something that is not good of effective |                                                             |
+| inherent                          | ajd. existing as a natural or basic part of something |                                                             |
+| vulnerability                     | n.the quality or state of being exposed to the possibility of being attacked or harmed,either physically or emotionally | 脆弱性；弱点                                                |
+| exposure                          | n.the fact of an event of infomation being oftehn discussed in newspapers and on the television,etc. : the fact of experiencing something or being affected by it because of being in a particular situation or place : |                                       |
+| implications                      | noun.an occasion when you seem to suggest something without saying it directly : the effect that an action or decisioon will have on something else in the future |  |
+| overly                            | adverb.too;very |                                                             |
+| broad                             | adj.very wide: including a wide range of things;general |                                                             |
+| restrict                          | verb.to limit the movements or actions of someone,or to limit something and reduce its size or prevent it from increasing |                                                             |
+| duration                          | noun.the length of time that something lasts : the time during which something exists or lasts |                                                             |
+| subset                            | noun.a set each of whose elements is an element of an inclusive set |                                                             |
+| revoke                            | verb.to say officailly that an agreement, permission,a law, etc. is no longer in effect |                                                             |
+| individual                        | noun.a single person or thing,expecially when compared to the group or set to which they belong;adj. existing and considered separately from the other things or people in a group :give to or relating to a single, separate person or thing |                                                             |
+| compromise                        | noun. an agreement in an argument in which the people involved reduce their demands or change their opinion in order to agree |                                                             |
+| issue                             | noun.a subject or problem that people are thingking and talking about |                                                             |
+| problem                       | noun.a situation,person,or thing that needs attention and needs to be dealt with or solved |                                                             |
+| result                            | verb.to happen or exist because something else has happened : to proceed or arise as a consequence,effect,or conclusion |                                                             |
 | layer                             |                                                              |                                                             |
 | represent                         |                                                              |                                                             |
 | specific                          |                                                              |                                                             |
@@ -138,9 +139,9 @@
 | otherwise                         |                                                              |                                                             |
 | inform                            |                                                              |                                                             |
 | store                             | verb.to place or leave in a location (such as a warehouse,library,or computer memory) for preservation or later use  or disposal |                                                             |
-| required                          | adj.stipulated as necessary to be done, made, or provided    |
-| transmission                          |     |
-| potentially                          |     |
+| required                          | adj.stipulated as necessary to be done, made, or provided    ||
+| transmission                          |     ||
+| potentially                          |     ||
 
 
 
