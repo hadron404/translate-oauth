@@ -106,9 +106,18 @@
 | issue                             | noun.a subject or problem that people are thingking and talking about |                                                             |
 | problem                       | noun.a situation,person,or thing that needs attention and needs to be dealt with or solved |                                                             |
 | result                            | verb.to happen or exist because something else has happened : to proceed or arise as a consequence,effect,or conclusion |                                                             |
+| address                       | verb.to speak or write to someone: to give attention to or deal with a matter or problem | 对付，应付，处理 |
+| deal with sb.                    | to talk to someone or meet someone,especially as part of your job. | （尤指工作上）与...打交道 |
+| introduce                         | verb.to put something into use,operation,or a place for ther first time. |                                                             |
+| layer                             | noun. a level of material, such as a type of rock or gas, that is different from the material above or below it, or a thin sheet of a substance: the group of people at a particular level in an organization |                                                             |
+| host                             | verb.to provide the space and other things necessary for a special event: to be the host of a television or radio programme: to proovide the computer hardware and software that allows a website to exist on the internet | 为（网站）提供软硬件支持 |
+| such as                          | used to introduce an example or series of examples |                                                             |
 | layer                             |                                                              |                                                             |
-| represent                         |                                                              |                                                             |
-| specific                          |                                                              |                                                             |
+| layer                             |                                                              |                                                             |
+| layer                             |                                                              |                                                             |
+| layer                             |                                                              |                                                             |
+| represent                         | verb.to speak,act,or be present officially for another person or people |                                                             |
+| specific                          | adj.relating to one thing and not others;particular |                                                             |
 | instead                           |                                                              |                                                             |
 | delegation                        |                                                              |                                                             |
 | track                             |                                                              |                                                             |
