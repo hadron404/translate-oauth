@@ -289,6 +289,58 @@
 
 2 Client Registration
 
+|                     |      |      |
+| ------------------- | ---- | ---- |
+| initiating          |      |      |
+| establish           |      |      |
+| registration        |      |      |
+| involve             |      |      |
+| manually            |      |      |
+| interaction         |      |      |
+| rely                |      |      |
+| accomplished        |      |      |
+| self-issued         |      |      |
+| third-party0-issued |      |      |
+| performing          |      |      |
+| specify             |      |      |
+| acceptance          |      |      |
+| legal               |      |      |
+| acceptance               |      |      |
+
+2.1 Client Types
+
+|                   |      |      |
+| ----------------- | ---- | ---- |
+| securely          |      |      |
+| assurance         |      |      |
+| identity          |      |      |
+| confidential      |      |      |
+| prior             |      |      |
+| designated        |      |      |
+| credentialed      |      |      |
+| precautions       |      |      |
+| leakage           |      |      |
+| prevent           |      |      |
+| abuse             |      |      |
+| confidence        |      |      |
+| critical          |      |      |
+| treatd            |      |      |
+| server-side       |      |      |
+| profile           |      |      |
+| assumed           |      |      |
+| on the other hand |      |      |
+| dynamically       |      |      |
+| acceptable        |      |      |
+| at a minimum      |      |      |
+| hostile           |      |      |
+| interact          |      |      |
+| residing          |      |      |
+|                   |      |      |
+|                   |      |      |
+|                   |      |      |
+|                   |      |      |
+|                   |      |      |
+
 
 
 ### Word Group
