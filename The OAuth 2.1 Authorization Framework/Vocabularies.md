@@ -112,26 +112,25 @@
 | layer                             | noun. a level of material, such as a type of rock or gas, that is different from the material above or below it, or a thin sheet of a substance: the group of people at a particular level in an organization |                                                             |
 | host                             | verb.to provide the space and other things necessary for a special event: to be the host of a television or radio programme: to proovide the computer hardware and software that allows a website to exist on the internet | 为（网站）提供软硬件支持 |
 | such as                          | used to introduce an example or series of examples |                                                             |
-| layer                             |                                                              |                                                             |
-| layer                             |                                                              |                                                             |
-| layer                             |                                                              |                                                             |
-| layer                             |                                                              |                                                             |
 | represent                         | verb.to speak,act,or be present officially for another person or people |                                                             |
-| specific                          | adj.relating to one thing and not others;particular |                                                             |
-| instead                           |                                                              |                                                             |
-| delegation                        |                                                              |                                                             |
-| track                             |                                                              |                                                             |
-| consolidate                       |                                                              |                                                             |
-| insecure                          |                                                              |                                                             |
-| capable                           |                                                              |                                                             |
+| specific                          | adj. relating to one thing and not others;particular |                                                             |
+| instead                           | adverb.in place of someone or something else |                                                             |
+| delegation                        | noun. a group of delegates: the act of delegating a particular job,duty,right, etc. to someone |                                                             |
+| track                             | noun. a type of path or road,often in the shape of a ring, that has been specially designed and built for sports events,especially racing. |                                                             |
+| consolidate                       | verb. to become, or cause something to become, stronger, and more certain |                                                             |
+| insecure                          | adj. insecure people have little confidence and are uncertain abount their own abilities or if other people really like them. |                                                             |
+| capable                           | adj.able to do things effectively and skilfully,and to achieve results |                                                             |
+| capable of sth/doing sth  | having the ability,power,or qualities to be able to do something. |                                                             |
 | referred                          |                                                              |                                                             |
-| abbreviated                       |                                                              |                                                             |
-| via                               |                                                              |                                                             |
-| term                              |                                                              |                                                             |
-| imply                             |                                                              |                                                             |
-| particular                        |                                                              |                                                             |
-| characteristics                   |                                                              |                                                             |
-| interaction                       |                                                              |                                                             |
+| entity                       | noun.something that esists apart from other things,having its own independent existence |                                                             |
+| abbreviated                       | to make a word or phrase shorter by using only the first letters of each word |                                                             |
+| via                               | prep.going through or stopping at a place on the way to another place |                                                             |
+| term                              | noun. a word or expression used in relation to a particular subject, often to describe something official or technical. |                                                             |
+| imply                             | verb. to communicate an idea or feeling without saying it directly |                                                             |
+| particular                        | adj. special, or this and not any other. |                                                             |
+| implementation           | noun. an act or instance of implementing something: the process of makeing something active or effective |                                                             |
+| characteristics                   | noun. a typical or noticeable quality of someone or something adj. typical of a person or thing |                                                             |
+| interaction                       | noun. an occasion when two or more people or things communicate with or react to each other |                                                             |
 | illustrated                       |                                                              |                                                             |
 | figure                            |                                                              |                                                             |
 | preferably                        |                                                              |                                                             |
