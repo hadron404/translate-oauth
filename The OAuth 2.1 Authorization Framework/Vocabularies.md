@@ -131,25 +131,28 @@
 | implementation           | noun. an act or instance of implementing something: the process of makeing something active or effective |                                                             |
 | characteristics                   | noun. a typical or noticeable quality of someone or something adj. typical of a person or thing |                                                             |
 | interaction                       | noun. an occasion when two or more people or things communicate with or react to each other |                                                             |
-| illustrated                       |                                                              |                                                             |
-| figure                            |                                                              |                                                             |
-| preferably                        |                                                              |                                                             |
-| intermediary                      |                                                              |                                                             |
-| express                           |                                                              |                                                             |
-| present                           |                                                              |                                                             |
-| deplicted                         |                                                              |                                                             |
-| as well as                        |                                                              |                                                             |
-| mechanism                         |                                                              |                                                             |
-| temporary                         |                                                              |                                                             |
-| instead of                        |                                                              |                                                             |
-| exchange                          |                                                              |                                                             |
-| consent                           |                                                              |                                                             |
-| otherwise                         |                                                              |                                                             |
-| inform                            |                                                              |                                                             |
+| illustrated                       | verb.to draw pictures for a book,magazin,etc. |                                                             |
+| figure                            | noun.a picture or drawing,often with a number,in a book or other document |                                                             |
+| preferably                        | adverb. if possible |                                                             |
+| intermediary                      | noun.someone who carries messages between people who are unwilling or unable to meet |                                                             |
+| express                           | verb. to show a feeling, opinion, or fact |                                                             |
+| express yourself                  | to communicate what you think or feel, by speaking or writing, or in some other way |                                                             |
+| present                           | noun.something that you are given,without asking for it, on a special occasion, especially to show friendship, or to say thank you |                                                             |
+| the present               | the period of time that is happening now,not the past or the future ||
+| depicted                 | verb.to represent or show something in a picture or story |                                                             |
+| as well as                        | in addition (to) | 除...之外还；也；和 |
+| mechanism                         | noun.a part of machine,or a set of parts that work together;a way of doing something that is planned or part of a system | 机械装置；机械部件；体制；结构方式 |
+| temporary                         | adj.not lasting or needed for very long |                                                             |
+| instead of                        | in place of someone or something |                                                             |
+| exchange                          | noun. the act of giving something to someone and them giving you something else: a short conversation or argument: an arrangement in which students from one country go to stay with students from another country; verb. to give something to someone and receive something from that person: to take something back to a shop where it was bought and get something else instead |                                                             |
+| consent                           | permission or agreement |                                                             |
+| by common consent       | most people agree ||
+| otherwise                         | conj. used after an order or suggestion to show what the result will be if you do not follow that order or suggestion |                                                             |
+| inform                            | verb. to tell someone about particular facts |                                                             |
 | store                             | verb.to place or leave in a location (such as a warehouse,library,or computer memory) for preservation or later use  or disposal |                                                             |
 | required                          | adj.stipulated as necessary to be done, made, or provided    ||
-| transmission                          |     ||
-| potentially                          |     ||
+| transmission                          | noun.the process of broadcasting something by radio,television,etc., or something that is broadcast : the process of passing something from one person or place to another ||
+| potentially                          | possibly ||
 
 
 
